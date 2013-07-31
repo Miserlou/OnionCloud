@@ -15,6 +15,7 @@ anonymous web services because of how difficult and annoying it is to deploy the
 We'd like to develop a service, similar to Heroku, which would allow single command deployment of anonymous services:
 
 > git remote add onioncloud123456.onion/myapp
+
 > git push onion master
 
 and it's live!
