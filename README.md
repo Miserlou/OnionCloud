@@ -33,7 +33,7 @@ JavaScript, Python and Ruby.
 
 ## Funding
 
-We are seeking to raise 50BTC in order to hire 1 additional developer to help build and deploy this service. The timeframe is 3 months
+We are seeking to raise some money in order to hire 1 additional developer to help build and deploy this service. The timeframe is 3 months
 after the funding deadline to a beta, and then 3 months after that to develop a 1.0 version of the service.
 
 > 1JKvCnFEESTY2TvRsxy8ezisr198pLMDqZ
